@@ -13,7 +13,8 @@ body{
     float: left;
 }
 mark{
-    color: red;
+    background: none;
+    color: #FFAD5A;
 }
 .container.h2{
     font-size: 10px;
@@ -38,7 +39,7 @@ mark{
 
 .hdrlft ul li a{
     color: white;
-    background: red;
+    background: #ff5959e3;;
     padding: 7px;
     text-decoration: none;
     
@@ -62,7 +63,7 @@ mark{
 .area2{
     margin-left: 30px;
     border-radius: 6px;
-    background: #c1dadd8c;
+    background: #FFEEEE;
     position: relative;
     width: 300px;
     float: left;
@@ -72,7 +73,7 @@ mark{
 .area3{
    
     border-radius: 6px;
-    background: #c1dadd8c;
+    background: #FFEEEE;
     position: relative;
     width: 300px;
    
@@ -85,6 +86,7 @@ mark{
 }
 .develop-content-right-div{
     width: 450px;
+    margin-bottom: 100px;
     float: right;
 }
 .develop-content-right-div ul li{
@@ -95,7 +97,7 @@ mark{
 
 .develop-content-right-div ul li a{
     color: white;
-    background: red;
+    background: #ff5959e3;
     padding: 7px;
     text-decoration: none;
     
@@ -103,4 +105,49 @@ mark{
     margin: 0px 0px 0px 8px;
     padding-left: 24px;
     padding-right: 21px;
+}
+.devlop-area-left{
+    margin-left: 55px;
+    width: 450px;
+}
+.devlop-area-right{
+    float: right;
+}
+.devlop-area-left ul li a{
+    color: white;
+    background: #ff5959e3;
+    padding: 7px;
+    text-decoration: none;
+    border-radius: 3px;
+    margin: 0px 0px 0px 8px;
+    padding-left: 24px;
+    padding-right: 21px;
+}
+.devlop-area-left ul li{
+    margin-left: 12px;
+  list-style-type: none;
+}
+.footer-top-left{
+    width: 400px;
+    float: left;
+}
+.footer-top-right{
+    margin-right: 55px;
+    width: 400px;
+    float: right;
+    margin-top: 99px;
+}
+.footer-top-right ul li a{
+    color: white;
+    background: #ff5959e3;
+    padding: 7px;
+    text-decoration: none;
+    border-radius: 3px;
+    margin: 0px 0px 0px 8px;
+    padding-left: 24px;
+    padding-right: 21px;
+}
+.footer-top-right ul li{
+    margin-left: 12px;
+  list-style-type: none;
 }
