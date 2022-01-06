@@ -1,0 +1,6 @@
+*{margin:0;padding:0}
+body{
+    font-family: 'Fjalla One', sans-serif;
+}
+.container_full {width: 100%; height: auto;}
+.container {width:960px; margin:0 auto; display:block }
